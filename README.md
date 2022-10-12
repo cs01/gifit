@@ -1,5 +1,6 @@
 # gif it
-convert video to gif
+
+a single file python script to convert videos to gif
 
 ## install
 
